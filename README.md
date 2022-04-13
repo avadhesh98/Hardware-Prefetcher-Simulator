@@ -1,3 +1,5 @@
+Below is the description of the project with the specifications:
+
 # CS203 (2021 Fall) Project: Prefetching competition
 
 ## Due: 11/29/2021
